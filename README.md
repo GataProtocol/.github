@@ -4,7 +4,7 @@
 
 ## 🌍 What is GATA Protocol?
 
-Founded in **February 2022**, GATA Protocol is a **Decentralized Autonomous Social Economy (DASE)** that operates as a **community-owned and operated decentralized eCommerce and logistics ecosystem**. Our vision is to create an inclusive platform where individuals can buy, sell, deliver, and contribute to the ecosystem while earning income and community tokens in return.
+Founded in **February 2022**, **GATA Protocol** is a **community-owned and operated decentralized eCommerce and logistics ecosystem**. Our vision is to create an inclusive platform where individuals can buy, sell, deliver, and contribute to the ecosystem while earning income and community tokens in return.
 
 ### Key Features of GATA Protocol:
 - **Decentralization**: Built on blockchain technology, we aim to empower individuals globally by eliminating centralized control.
@@ -24,10 +24,9 @@ If you're interested in helping solve real human problems using blockchain, we�
 ## 📫 Reach Us on Social Media
 
 - **Twitter**: [@GataProtocol](https://www.twitter.com/gataprotocol)  
-- **Instagram**: [@GataProtocol](https://www.instagram.com/gataprotocol)  
-- **Clubhouse**: [GATA Protocol Club](https://www.clubhouse.com/club/gata-protocol)  
-- **GitHub**: [Gata Protocol Repository](https://www.github.com/GataProtocol)  
-- **Reddit**: [u/GataProtocol](https://www.reddit.com/user/GataProtocol)  
+- **Instagram**: [@GataProtocol](https://www.instagram.com/gataprotocol)    
+- **GitHub**: [Gata Protocol Repository](https://www.github.com/GataProtocol)
+- **Discord**: [Gata Protocol Repository](https://discord.gg/hMsGUhuGRs)
 - **Telegram**: [Join GATA Protocol](https://www.t.me/gataprotocol)  
 - **Medium**: [GATA Protocol Blog](https://gataprotocol.medium.com/)
 
